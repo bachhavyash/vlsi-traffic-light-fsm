@@ -64,5 +64,5 @@ A **Moore Finite State Machine (FSM)** implementing a 2-road traffic light contr
 4. Click **Run**
 
 ## Author
-**Yashganesh Bachhav** | B.E. EnTC | LGNSCOE Nashik  
+**Yashganesh Bachhav** | TE EnTC | LGNSCOE Nashik  
 VLSI Internship — CODTECH IT Solutions (Jan–Feb 2025)
