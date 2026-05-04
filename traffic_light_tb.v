@@ -42,7 +42,7 @@ module traffic_light_tb;
 
     initial begin
         $display("====================================================");
-        $display(" Traffic Light FSM — Yashganesh Bachhav");
+        $display(" Traffic Light FSM ");
         $display("====================================================");
         $display(" Cycle | Road A  | Road B  | State");
         $display("-------|---------|---------|------");
