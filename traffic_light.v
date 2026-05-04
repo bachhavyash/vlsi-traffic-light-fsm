@@ -1,6 +1,6 @@
 // ============================================================
 // Project   : Traffic Light Controller (FSM)
-// Author    : Yashganesh Bachhav
+// Author    : Yash Ganesh Bachhav
 // College   : LGNSCOE, Nashik (SPPU)
 // Domain    : VLSI Design | Verilog HDL
 // Description: Moore FSM with 4 states for a 2-way intersection
